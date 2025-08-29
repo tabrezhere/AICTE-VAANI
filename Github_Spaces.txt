@@ -1,0 +1,30 @@
+Course Description
+B.E in Artificial Learning and Data Science is an undergraduate program me offered by the Dept of Computer Science, with advanced learning solutions imparting knowledge of advanced innovations like machine learning, often called deep learning and artificial intelligence.
+
+The department has strong link with local IT companies with whom students can do projects training internship and mentor-ship sessions various technical training courses are held to equip students with latest trend.
+
+Vision
+Strive to make the dept a center of excellence in artificial intelligence and data science by producing world class engineers equipped with latest technologies to build an eco system that will contribute knowledge to society.
+
+Mission
+ To train the students in the state-of-the-art technologies of artificial intelligence and data science.
+ To sensitize and bring awareness among the students to solve societal issues through AI techniques by inculcating values and ethics.
+ To Enhance research, employability and entrepreneurial skills of students in the field of AI & DS through project-based learning.
+Program Educational Objectives (PEOs)
+Graduate will solve real-time problems using analytical skills acquired in the field of Artificial Intelligence and Data Science
+ Graduate will embrace the professional code of ethics while participating in projects that benefit society.
+Graduates will innovate and adapt new technologies of AI & DS in their chosen field of profession.
+ Graduate will have the capacity to engage in life-long learning by pursuing higher education to augment career development
+
+
+S.No.	Name	Designation
+1	Dr. UPPARA NARESH	Associate Prof
+2	Syed Shah Mehmood Sarmasth	Asst.Prof
+3	Mr. SYED ABDUL WAHAB ASIF	Asst.Prof
+4	Mr. S Mohammed Mazhar-Ul- Haq	Asst.Prof
+5	Mrs.Imreena Ali	Asst.Prof
+6	Dr. Mohd Azam	Associate Prof
+7	Mr. A.Raja Shekar	Asst.Prof
+8	Mr.Akmal Hussain	Asst.Prof
+9	Mrs.Hadiya sameen	Asst.Prof
+10	Mohd faisal	Asst.Prof
