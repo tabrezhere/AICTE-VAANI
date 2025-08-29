@@ -6,8 +6,6 @@ https://huggingface.co/spaces/not-lain/background-removal
 
 https://huggingface.co/spaces/InstantX/Qwen-Image-ControlNet
 
-https://huggingface.co/spaces/yingzhac/NSFW_gen
-
 https://huggingface.co/spaces/jbilcke-hf/FacePoke
 
 
@@ -25,6 +23,7 @@ Text generation Model
 
 https://huggingface.co/spaces/Qwen/QwQ-32B-Demo
 https://huggingface.co/spaces/prithivMLmods/Multimodal-OCR
+
 
 
 
